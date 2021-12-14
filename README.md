@@ -1,0 +1,2 @@
+# awsvscode
+awsvscode-new
